@@ -1,0 +1,5 @@
+wifi_ssid = 'ssid-name'
+wifi_password = 'ssid-password'
+mqtt_server = b'server-name or ip'
+mqtt_username = b'mqtt-user'
+mqtt_password = b'mqtt-password'
